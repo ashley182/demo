@@ -1,0 +1,3 @@
+# Configuration dangereuse
+DB_PASSWORD=SuperSecret123!
+API_KEY=sk_live_1234567890abcdef
